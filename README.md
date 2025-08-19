@@ -1,8 +1,3 @@
-Of course! I'll help you replace all instances of "Andrej Marinchenko" with "CROSSLOX" and make other necessary adjustments to personalize the README for you.
-
-Here is the modified code. I've changed the name, username references, profile links, and other personal details. I've also commented on parts you **must** update yourself (like specific links to *your* profiles).
-
-```markdown
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
