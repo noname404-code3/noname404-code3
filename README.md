@@ -6,7 +6,7 @@
 
   <!-- Tencent Cloud Logo -->
   <a href="https://cloud.tencent.com/">
-    <img src="https://www.cloudflare.com/partners/technology-partners/tencentcloud/tencentcloud-logo.svg" 
+    <img src="[https://www.cloudflare.com/partners/technology-partners/tencentcloud/tencentcloud-logo.svg](https://cf-assets.www.cloudflare.com/slt3lc6tev37/6XttahJU8cwhyUlGFJpnbH/7cec0406092bcd138cbf8cb78dca8364/tencent_cloud_logo_high_res.png)" 
          alt="Tencent Cloud" 
          height="60">
   </a>
