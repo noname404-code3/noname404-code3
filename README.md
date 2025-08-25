@@ -22,7 +22,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/noname404-code3/noname404-code3">
-    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status">
+    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status">
   </a>
   <a href="https://github.com/python/cpython">
     <img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python">
