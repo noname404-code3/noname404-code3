@@ -4,17 +4,17 @@
 <!-- Centered Content: Tencent Logo + Typing SVG + Visitor Counter -->
 <div align="center">
 
-  <!-- Tencent Cloud Logo -->
+  <!-- Tencent Cloud Logo (High-Res PNG) -->
   <a href="https://cloud.tencent.com/">
-    <img src="[https://www.cloudflare.com/partners/technology-partners/tencentcloud/tencentcloud-logo.svg](https://cf-assets.www.cloudflare.com/slt3lc6tev37/6XttahJU8cwhyUlGFJpnbH/7cec0406092bcd138cbf8cb78dca8364/tencent_cloud_logo_high_res.png)" 
+    <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6XttahJU8cwhyUlGFJpnbH/7cec0406092bcd138cbf8cb78dca8364/tencent_cloud_logo_high_res.png" 
          alt="Tencent Cloud" 
          height="60">
   </a>
 
-  <!-- Typing SVG (Fixed URL - No Extra Spaces) -->
+  <!-- Typing SVG (No Extra Spaces) -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+noname404-code3;Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+fucking+old+memos;Error+learning+shitz;Tencent+community+member)](https://git.io/typing-svg)
 
-  <!-- Visitor Counter (Fixed Color) -->
+  <!-- Visitor Counter (Valid Color) -->
   ![](https://komarev.com/ghpvc/?username=noname404-code3&label=👁️+Views&color=8a2be2&style=plastic)
 
 </div>
