@@ -12,7 +12,7 @@
   </a>
 
   <!-- Typing SVG with Random Light Colors -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?color=66FF66,66B2FF,FFFF66,D466FF&random=true&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+noname404-code3;Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+fucking+old+memos;Error+learning+shitz;Tencent+community+member)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?color=66FF66,66B2FF,FFFF66,D466FF&random=true&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+noname404-code3;Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+fucking+old+memos;Error+learning+shitz;Tencent+Cloud+Staff+Member)](https://git.io/typing-svg)
 
   <!-- Visitor Counter -->
   ![](https://komarev.com/ghpvc/?username=noname404-code3&label=👁️+Views&color=8a2be2&style=plastic)
