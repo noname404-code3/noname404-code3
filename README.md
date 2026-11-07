@@ -29,7 +29,7 @@
 </td>
 <td width="72%" valign="middle">
 
-## Hi there 👋, I'm LILAX
+## Hi there 👋, I'm CROSSLOX
 
 A developer, creator, and technology enthusiast passionate about building useful tools, modern applications, and exploring new technologies.
 
@@ -44,14 +44,14 @@ A developer, creator, and technology enthusiast passionate about building useful
 </tr>
 </table>
 
-## `> about_me`
+## `> About_me`
 
 - 💻 Interested in software development and desktop applications
 - ☁️ Exploring cloud tools, automation, and system optimization
 - 🎨 Enjoy building clean interfaces and polished user experiences
 - 🚀 Always learning, experimenting, and creating
 
-## `> tech_stack`
+## `> Tech_stack`
 
 <div align="center">
 
@@ -61,7 +61,7 @@ A developer, creator, and technology enthusiast passionate about building useful
 
 ---
 
-## `> github_dashboard`
+## `> Github_dashboard`
 
 <div align="center">
 
@@ -82,7 +82,7 @@ A developer, creator, and technology enthusiast passionate about building useful
 
 ---
 
-## `> contribution_activity`
+## `> Contribution_activity`
 
 <div align="center">
 
