@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/lilax-header.png" width="100%" alt="LILAX — Developer • Creator • Tech Enthusiast">
+<img src="./assets/lilax-header.png" width="100%" alt="CROSSLOX — Developer • Creator • Tech Enthusiast">
 
 <br>
 
