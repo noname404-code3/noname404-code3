@@ -1,43 +1,110 @@
-<!-- Header Image -->
-![](./src/header_.png)
 
-<!-- Centered Content: Tencent Logo + Typing SVG + Visitor Counter -->
+<!-- ═══════════════════════════════════════════ -->
+<!--              LILAX PROFILE                 -->
+<!-- ═══════════════════════════════════════════ -->
+
 <div align="center">
 
-  <!-- Tencent Cloud Logo (High-Res PNG) -->
-  <a href="https://cloud.tencent.com/">
-    <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6XttahJU8cwhyUlGFJpnbH/7cec0406092bcd138cbf8cb78dca8364/tencent_cloud_logo_high_res.png" 
-         alt="Tencent Cloud" 
-         height="60">
-  </a>
+<img src="./src/header_.png" width="100%" alt="LILAX Header"/>
 
-  <!-- Typing SVG with Random Light Colors -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?color=66FF66,66B2FF,FFFF66,D466FF&random=true&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+noname404-code3;Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+fucking+old+memos;Error+learning+shitz;Tencent+Cloud+Staff+Member)](https://git.io/typing-svg)
+<br/>
 
-  <!-- Visitor Counter -->
-  ![](https://komarev.com/ghpvc/?username=noname404-code3&label=👁️+Views&color=8a2be2&style=plastic)
+# ⚡ LILAX
+
+### `Developer • Technology Enthusiast • Creator`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=9D6BFF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub+profile!;Building+ideas+into+reality.;Exploring+the+world+of+technology.;Code.+Create.+Innovate." alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/noname404-code3">
+<img src="https://komarev.com/ghpvc/?username=noname404-code3&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+</a>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noname404-code3)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Building-8B5CF6?style=for-the-badge)](https://github.com/noname404-code3)
 
 </div>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/noname404-code3/noname404-code3">
-    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status">
-  </a>
-  <a href="https://github.com/python/cpython">
-    <img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python">
-  </a>
-  <a href="https://github.com/noname404-code3/noname404-code3/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/noname404-code3/noname404-code3?color=blue" alt="contributors">
-  </a>
-  <a href="https://github.com/noname404-code3/noname404-code3/stargazers">
-    <img src="https://img.shields.io/github/stars/noname404-code3/noname404-code3.svg?logo=github" alt="stars">
-  </a>
-  <a href="https://github.com/noname404-code3/noname404-code3/network/members">
-    <img src="https://img.shields.io/github/forks/noname404-code3/noname404-code3.svg?color=blue&logo=github" alt="forks">
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=noname404-code3.noname404-code3" alt="visitors">
-</p>
+---
 
-<!-- Bottom Decoration -->
-![](assets/Bottom_up.svg)
+## 👨‍💻 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "LILAX"
+        self.username = "noname404-code3"
+        self.role = "Developer"
+        self.language = ["Python"]
+        self.interests = [
+            "Software Development",
+            "Technology",
+            "UI/UX Design",
+            "Cloud Computing"
+        ]
+
+    def motto(self):
+        return "Think. Build. Innovate."
+
+me = Developer()
+```
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,rust,html,css,js,git,github,vscode,windows&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=noname404-code3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noname404-code3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=noname404-code3&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/noname404-code3/noname404-code3/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/noname404-code3">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+### ✨ Thanks for visiting!
+
+**`Think Different. Code Better. Build Beyond.`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer"/>
+
+</div>
