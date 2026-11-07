@@ -1,86 +1,142 @@
 <div align="center">
 
-<img src="./assets/lilax-header.png" alt="LILAX — Developer • Creator • Technology Enthusiast" width="100%">
+<img src="./assets/lilax-header.png" width="100%" alt="LILAX — Developer • Creator • Tech Enthusiast">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9B72FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Building+ideas+into+reality;Exploring+software+and+technology;Think.+Build.+Innovate." alt="Animated LILAX introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=B78CFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+LILAX;Building+ideas+into+reality;Developer+%7C+Creator+%7C+Tech+Enthusiast;Think.+Build.+Innovate." alt="Animated LILAX introduction">
 
 <br><br>
 
 <a href="https://github.com/noname404-code3">
-  <img src="https://komarev.com/ghpvc/?username=noname404-code3&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=noname404-code3&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views">
 </a>
 <a href="https://github.com/noname404-code3?tab=followers">
-  <img src="https://img.shields.io/github/followers/noname404-code3?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB" alt="GitHub followers">
+  <img src="https://img.shields.io/github/followers/noname404-code3?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB" alt="Followers">
 </a>
 <a href="https://github.com/noname404-code3?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
 </a>
 
 </div>
 
 ---
 
-## `> whoami`
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+  <img src="./assets/lilax-avatar.png" width="190" alt="LILAX logo">
+</td>
+<td width="72%" valign="middle">
 
-Hi, I'm **LILAX** — a developer and technology enthusiast interested in building useful software, exploring modern tools, and turning ideas into practical projects.
+## Hi there 👋, I'm LILAX
 
-- **Focus:** software development, desktop apps, UI/UX, and technology
-- **Currently exploring:** Python, Rust, and modern development workflows
-- **Approach:** learn continuously, build thoughtfully, and improve with every project
+A developer, creator, and technology enthusiast passionate about building useful tools, modern applications, and exploring new technologies.
 
-> **Think Different · Code Better · Build Beyond**
+<p>
+  <img src="https://img.shields.io/badge/Developer-17152B?style=for-the-badge&logo=code&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/Open%20Source-17152B?style=for-the-badge&logo=github&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-17152B?style=for-the-badge&logo=icloud&logoColor=38BDF8">
+  <img src="https://img.shields.io/badge/Tech%20Explorer-17152B?style=for-the-badge&logo=rocket&logoColor=38BDF8">
+</p>
+
+</td>
+</tr>
+</table>
+
+## `> about_me`
+
+- 💻 Interested in software development and desktop applications
+- ☁️ Exploring cloud tools, automation, and system optimization
+- 🎨 Enjoy building clean interfaces and polished user experiences
+- 🚀 Always learning, experimenting, and creating
 
 ## `> tech_stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,html,css,js,git,github,vscode,windows&theme=dark" alt="Technology icons">
+<img src="https://skillicons.dev/icons?i=python,rust,html,css,js,git,github,vscode,windows&theme=dark" alt="Technology stack">
 
 </div>
 
-## `> github_stats`
+---
+
+## `> github_dashboard`
 
 <div align="center">
 
 <a href="https://github.com/noname404-code3">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=noname404-code3&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=38BDF8" alt="LILAX GitHub statistics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=noname404-code3&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B18&title_color=C084FC&text_color=E5E7EB&icon_color=38BDF8" alt="LILAX GitHub statistics">
 </a>
 <a href="https://github.com/noname404-code3">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noname404-code3&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noname404-code3&layout=compact&hide_border=true&bg_color=080B18&title_color=C084FC&text_color=E5E7EB" alt="Most used languages">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/noname404-code3">
-  <img width="70%" src="https://streak-stats.demolab.com?user=noname404-code3&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
+  <img width="75%" src="https://streak-stats.demolab.com?user=noname404-code3&hide_border=true&background=080B18&ring=A855F7&fire=38BDF8&currStreakLabel=C084FC&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub contribution streak">
 </a>
 
 </div>
+
+---
 
 ## `> featured_projects`
 
 <div align="center">
 
-<!-- Replace the placeholder repository names and links with your actual public repositories. -->
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/noname404-code3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noname404-code3&repo=REPLACE_WITH_REPO_1&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=38BDF8" alt="Featured project one">
-</a>
-<a href="https://github.com/noname404-code3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noname404-code3&repo=REPLACE_WITH_REPO_2&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=38BDF8" alt="Featured project two">
-</a>
+### 💻 LILAX-MAC
+
+A modern desktop experience inspired by macOS, with a Dynamic Island concept and interactive widgets.
+
+**Stack:** Rust · Desktop UI
+
+<a href="https://github.com/noname404-code3?tab=repositories">Explore repositories ↗</a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 AtlasPlaybook
+
+A project focused on Windows configuration, system tuning, and performance optimization.
+
+**Focus:** Windows · Optimization
+
+<a href="https://github.com/noname404-code3?tab=repositories">Explore repositories ↗</a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🧰 LILAX-Toolkit
+
+A collection concept for useful developer utilities and productivity tools.
+
+**Focus:** Tools · Utilities
+
+<a href="https://github.com/noname404-code3?tab=repositories">Explore repositories ↗</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> **Setup:** Replace `REPLACE_WITH_REPO_1` and `REPLACE_WITH_REPO_2` with the exact names of your public repositories. Add or remove project cards as needed.
+> These are profile feature cards based on the project themes shown in the design. Update each title, description, and link to the exact public repository when it is published.
 
 ## `> contribution_activity`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/noname404-code3/noname404-code3/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noname404-code3&bg_color=080B18&color=C4B5FD&line=38BDF8&point=D8B4FE&area=true&hide_border=true" width="100%" alt="Contribution activity graph">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/noname404-code3/noname404-code3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation">
 
 </div>
 
@@ -88,10 +144,8 @@ Hi, I'm **LILAX** — a developer and technology enthusiast interested in buildi
 
 <div align="center">
 
-**Thanks for stopping by.**
+### THINK DIFFERENT  ·  CODE BETTER  ·  BUILD BEYOND
 
-*Code with purpose. Create with curiosity.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=110&section=footer" alt="Neon purple and blue footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer" width="100%" alt="Neon purple and electric blue footer">
 
 </div>
