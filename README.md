@@ -82,52 +82,6 @@ A developer, creator, and technology enthusiast passionate about building useful
 
 ---
 
-## `> featured_projects`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 LILAX-MAC
-
-A modern desktop experience inspired by macOS, with a Dynamic Island concept and interactive widgets.
-
-**Stack:** Rust · Desktop UI
-
-<a href="https://github.com/noname404-code3?tab=repositories">Explore repositories ↗</a>
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 AtlasPlaybook
-
-A project focused on Windows configuration, system tuning, and performance optimization.
-
-**Focus:** Windows · Optimization
-
-<a href="https://github.com/noname404-code3?tab=repositories">Explore repositories ↗</a>
-
-</td>
-<td width="33%" valign="top">
-
-### 🧰 LILAX-Toolkit
-
-A collection concept for useful developer utilities and productivity tools.
-
-**Focus:** Tools · Utilities
-
-<a href="https://github.com/noname404-code3?tab=repositories">Explore repositories ↗</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> These are profile feature cards based on the project themes shown in the design. Update each title, description, and link to the exact public repository when it is published.
-
 ## `> contribution_activity`
 
 <div align="center">
@@ -144,7 +98,7 @@ A collection concept for useful developer utilities and productivity tools.
 
 <div align="center">
 
-### THINK DIFFERENT  ·  CODE BETTER  ·  BUILD BEYOND
+### THINK DIFFERENT · CODE BETTER · BUILD BEYOND
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer" width="100%" alt="Neon purple and electric blue footer">
 

@@ -1,11 +1,9 @@
-# LILAX GitHub profile — matching design setup
+# LILAX GitHub profile — clean README
 
-1. Open your profile repository: `noname404-code3`.
-2. Replace its `README.md` with this package's `README.md`.
-3. Upload the `assets` folder without changing its name or paths.
-4. Upload `.github/workflows/snake.yml` to the same path in your repository.
-5. In GitHub, open **Settings → Actions → General → Workflow permissions** and allow read/write permissions if needed.
-6. Open **Actions → Generate contribution snake** and run the workflow once. It publishes the SVG to the `output` branch.
-7. The featured cards currently point to your repositories list because the exact public repo URLs were not verified. Change each link to its real repository URL when ready.
+1. Replace the `README.md` in your `noname404-code3` profile repository with this file.
+2. Upload the `assets` folder, preserving both image filenames and paths.
+3. Upload `.github/workflows/snake.yml` if included in this package.
+4. Run the snake workflow once from the repository's Actions tab.
+5. The featured-project cards and their explanatory note have been removed. The unrelated recommendation text, test links, and stray `&#x20;` entity are not included.
 
-The username `noname404-code3` is taken from the profile code you supplied. Statistics, language percentages, followers, and contribution data are loaded dynamically rather than hard-coded.
+Note: the stats and activity-graph images still use external services. If those services are unavailable or rate-limited, their images may temporarily fail to load.
