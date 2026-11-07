@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/lilax-header.png" width="100%" alt="CROSSLOX — Developer • Creator • Tech Enthusiast">
+<img src="./assets/lilax-header.png" width="100%" alt="LILAX — Developer • Creator • Tech Enthusiast">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=B78CFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+LILAX;Building+ideas+into+reality;Developer+%7C+Creator+%7C+Tech+Enthusiast;Think.+Build.+Innovate." alt="Animated LILAX introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=B78CFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+CROSSLOX;Building+ideas+into+reality;Developer+%7C+Creator+%7C+Tech+Enthusiast;Think.+Build.+Innovate." alt="Animated LILAX introduction">
 
 <br><br>
 
